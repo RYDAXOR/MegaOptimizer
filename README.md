@@ -29,9 +29,9 @@ MegaOptimizer é uma solução premium de otimização e limpeza de sistema dese
 
 ## Links Rápidos
 
-- [Download](https://lojamdt.com/download)
-- [Documentação](https://lojamdt.com/docs)
-- [Suporte](https://lojamdt.com/suporte)
+- [Download]((https://lojamdt.com/produto/mega-optimizer-software-de-otimizacao-para-computadores/?ref=12&cmp=MegaOptimizer))
+- [Documentação]((https://lojamdt.com/produto/mega-optimizer-software-de-otimizacao-para-computadores/?ref=12&cmp=MegaOptimizer))
+- [Suporte](https://lojamdt.com/contato/)
 
 ---
 
