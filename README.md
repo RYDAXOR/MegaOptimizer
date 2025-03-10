@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://lojamdt.com">
-    <img src="/api/placeholder/120/40" alt="MDT Store"/>
+    <img src="https://lojamdt.com/wp-content/uploads/2023/02/cropped-LOGO-2023-MDT-SEM-FUNDO.png" alt="MDT Store"/>
   </a>
 </p>
 
