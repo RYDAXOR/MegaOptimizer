@@ -1,8 +1,6 @@
 # MegaOptimizer
 
-<p align="center">
-  <img src="/api/placeholder/200/200" alt="MegaOptimizer Logo"/>
-</p>
+
 
 <p align="center">
   <a href="https://lojamdt.com">
