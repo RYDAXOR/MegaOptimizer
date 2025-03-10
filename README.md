@@ -18,10 +18,6 @@ MegaOptimizer é uma solução premium de otimização e limpeza de sistema dese
 
 - 🚀 **Otimização Avançada**
 - 🧹 **Limpeza Profunda**
-- 🔒 **Proteção de Privacidade**
-- ⏱️ **Inicialização Rápida**
-- 💾 **Gerenciamento de Armazenamento**
-- 🔄 **Manutenção Automática**
 
 ## Instalação
 
